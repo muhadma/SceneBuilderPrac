@@ -1,0 +1,21 @@
+.root {
+    -fx-background-color: "white";
+}
+
+.button {
+    -fx-background-color: "transparent";
+    -fx-text-fill: white;
+}
+
+.rounded-edge {
+    -fx-background-color: "blue";
+    -fx-background-radius: 20;
+}
+
+#title {
+    -fx-font-size: 20;
+}
+
+#menu {
+    -fx-background-color: "grey";
+}
